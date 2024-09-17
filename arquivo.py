@@ -38,3 +38,4 @@ print(pd.DataFrame(dados_classificacao))
 
 #ver pontuação de um piloto específico
 #
+readline
